@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+main.py
+audio_processor.py
+vision_processor.py
+question_manager.py
