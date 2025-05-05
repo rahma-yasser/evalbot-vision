@@ -1,7 +1,7 @@
 fastapi==0.68.1
 uvicorn==0.15.0
 google-cloud-storage==2.10.0
-numpy==1.21.2
+numpy==1.23.0  # Updated from 1.21.2 to 1.23.0
 librosa==0.8.1
 speechrecognition==3.8.1
 scipy==1.7.1
@@ -11,3 +11,4 @@ torch==1.9.0
 torchvision==0.10.0
 albumentations==1.1.0
 pydantic==1.8.2
+gunicorn==20.1.0
